@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eternaldrowsy/CLionProjects/Calculator/expressions.cpp
+header.hpp
+/home/eternaldrowsy/CLionProjects/Calculator/header.hpp
+
+/home/eternaldrowsy/CLionProjects/Calculator/header.hpp
+stack
+-
+iostream
+-
+string
+-
+functional
+-
+map
+-
+iomanip
+-
+cmath
+-
+algorithm
+-
+
+/home/eternaldrowsy/CLionProjects/Calculator/main.cpp
+header.hpp
+/home/eternaldrowsy/CLionProjects/Calculator/header.hpp
+
+/home/eternaldrowsy/CLionProjects/Calculator/signs.cpp
+header.hpp
+/home/eternaldrowsy/CLionProjects/Calculator/header.hpp
+
